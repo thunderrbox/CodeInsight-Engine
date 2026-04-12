@@ -1,0 +1,11 @@
+{
+  "name": "backend",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon src/index.js",
+    "start": "node src/index.js"
+  },
+  "devDependencies": {
+    "prisma": "^7.7.0"
+  }
+}
